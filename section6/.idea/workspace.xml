@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95db8354-996f-4c7e-b96f-f3d7d9c37eed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ChangeCaseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharAtMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConcatMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConvertStringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmptyCheckDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EscapeSeqDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InternMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LengthMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PalindromeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParsingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintfDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringComparisonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringFormatDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringImmutableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringJoinDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringMultableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringReplaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringSearchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringSplitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringTrimDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SubStringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TextBlockDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Jg5Ik3fjZZufVQaIzrQ402DZ3v" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ChangeCaseDemo.executor": "Debug",
+    "Application.CharAtMethodDemo.executor": "Run",
+    "Application.ConcatMethodDemo.executor": "Run",
+    "Application.ConvertStringDemo.executor": "Debug",
+    "Application.EmptyCheckDemo.executor": "Debug",
+    "Application.EscapeSeqDemo.executor": "Run",
+    "Application.InternMethodDemo.executor": "Run",
+    "Application.LengthMethodDemo.executor": "Run",
+    "Application.PalindromeDemo.executor": "Run",
+    "Application.ParsingDemo.executor": "Debug",
+    "Application.PrintfDemo.executor": "Run",
+    "Application.StringComparisonDemo.executor": "Run",
+    "Application.StringFormatDemo.executor": "Run",
+    "Application.StringImmutableDemo.executor": "Run",
+    "Application.StringJoinDemo.executor": "Debug",
+    "Application.StringMultableDemo.executor": "Debug",
+    "Application.StringPoolDemo.executor": "Run",
+    "Application.StringReplaceDemo.executor": "Debug",
+    "Application.StringSearchDemo.executor": "Debug",
+    "Application.StringSplitDemo.executor": "Debug",
+    "Application.StringTrimDemo.executor": "Run",
+    "Application.SubStringDemo.executor": "Debug",
+    "Application.TextBlockDemo.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SearchEverywhere.PersistedScope.ClassSearchEverywhereContributor": "All Places",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "full.screen.before.presentation.mode": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editing.templates"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ParsingDemo">
+    <configuration name="PalindromeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromeDemo" />
+      <module name="section6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParsingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ParsingDemo" />
+      <module name="section6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringImmutableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringImmutableDemo" />
+      <module name="section6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringMultableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringMultableDemo" />
+      <module name="section6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextBlockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TextBlockDemo" />
+      <module name="section6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ParsingDemo" />
+        <item itemvalue="Application.TextBlockDemo" />
+        <item itemvalue="Application.PalindromeDemo" />
+        <item itemvalue="Application.StringMultableDemo" />
+        <item itemvalue="Application.StringImmutableDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95db8354-996f-4c7e-b96f-f3d7d9c37eed" name="Changes" comment="" />
+      <created>1790069792812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790069792812</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/EmptyCheckDemo.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/ChangeCaseDemo.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConvertStringDemo.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/SubStringDemo.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringReplaceDemo.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringReplaceDemo.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringJoinDemo.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringMultableDemo.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ParsingDemo.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
