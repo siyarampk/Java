@@ -1,5 +1,5 @@
 public class EmptyCheckDemo {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         String myString = "";
         boolean isEmpty = myString.isEmpty();
         boolean isLengthZero = myString.length() == 0;
@@ -12,7 +12,5 @@ public class EmptyCheckDemo {
 
         boolean isBlankEmpty = blankString.isEmpty();
         boolean isBlank = blankString.isBlank();
-
-
     }
 }

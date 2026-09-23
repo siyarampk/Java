@@ -1,5 +1,5 @@
 public class StringTrimDemo {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         String java1 = "java ".trim();
         String java2 = "java ".trim();
         String java3 = "\n\t java \n\r ".trim();

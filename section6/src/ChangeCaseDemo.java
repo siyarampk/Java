@@ -1,5 +1,5 @@
 public class ChangeCaseDemo {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         String orignalString = "Java";
         String upperCaseString = orignalString.toUpperCase();
         String lowerCaseString = orignalString.toLowerCase();

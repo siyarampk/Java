@@ -1,5 +1,5 @@
 public class StringFormatDemo {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         String message = "Hi, %s ! You have %d message";
         String msgForSiyaram = String.format(message, "Siyaram", 3);
         String msgForSaanvi = String.format(message, "Saanvi", 6);

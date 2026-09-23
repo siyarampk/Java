@@ -11,6 +11,5 @@ public class LengthMethodDemo {
 
         int emptyLenght = "".length();
         int lenght4 = "Hello".length();
-
     }
 }

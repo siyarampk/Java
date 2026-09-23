@@ -1,5 +1,5 @@
 public class PrintfDemo {
-    static void main(String[] args) {
+    public static void main(String[] args) {
      /*   String result = String.format("Name: %s , Age: %d", "John", 25);
         System.out.println(result);*/
         System.out.printf("Name: %s , Age: %d%n", "John", 25);

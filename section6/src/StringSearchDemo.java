@@ -1,5 +1,5 @@
 public class StringSearchDemo {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         String originalString = "Hello World!";
         int index = originalString.indexOf("!");
         int index1 = originalString.indexOf("World");

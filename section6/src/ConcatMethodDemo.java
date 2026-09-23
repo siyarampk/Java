@@ -1,5 +1,5 @@
 public class ConcatMethodDemo {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         String hello = "Hello";
         hello = hello + " " + "World";
         System.out.println(hello);
@@ -10,7 +10,5 @@ public class ConcatMethodDemo {
 
         String emptyString = "";
         String nullString = null;
-
-
     }
 }

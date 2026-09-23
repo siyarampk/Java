@@ -1,5 +1,5 @@
 public class StringComparisonDemo {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         String str1 = new String("Hey");
         String str2 = new String("Hello");
         String str3 = new String("Hey");
@@ -18,6 +18,5 @@ public class StringComparisonDemo {
         int comparsion1 = "java".compareTo("java");
         int comparsion2 = "java".compareTo("python");
         int comparsion3 = "python".compareTo("java");
-
     }
 }

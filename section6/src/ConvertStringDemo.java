@@ -1,5 +1,5 @@
 public class ConvertStringDemo {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         int intValue = 42;
         double doubleValue = 3.14;
         boolean boolValue = true;
@@ -12,6 +12,5 @@ public class ConvertStringDemo {
         int age = 30;
         String message = "My age is : " + age;
         String piValue = "" + 3.14;
-
     }
 }

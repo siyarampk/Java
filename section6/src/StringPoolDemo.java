@@ -17,7 +17,5 @@ public class StringPoolDemo {
         System.out.println(obj1.hashCode());
         System.out.println(obj2.hashCode());
         System.out.println(obj == obj1);
-
-
     }
 }
