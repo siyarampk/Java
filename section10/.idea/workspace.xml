@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3bda7fd-4e4a-40b3-b367-3f2cd74bfbaf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/marvel/animals/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/marvel/animals/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/marvel/app/AnimalUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/marvel/app/ConstructorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/marvel/app/DowncastingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/marvel/app/DynamicPoly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/marvel/app/MarvelsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/marvel/app/StaticPoly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/marvel/app/TestFieldHiding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/marvel/app/TestMethodHiding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/marvel/app/UpcastingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/marvel/base/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/marvel/base/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/marvel/base/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/marvel/base/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/marvel/base/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/marvel/heros/CaptionAmerica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/marvel/heros/IronMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/marvel/heros/SpiderMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/marvel/sealed/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/marvel/sealed/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/marvel/sealed/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/marvel/subjects/Mathematics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/marvel/vehicle/Car.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JtG06caMWEkR6GrisAnhXLtL6b" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ConstructorDemo.executor": "Run",
+    "Application.DowncastingDemo.executor": "Run",
+    "Application.DynamicPoly.executor": "Run",
+    "Application.MarvelsMain.executor": "Run",
+    "Application.StaticPoly.executor": "Run",
+    "Application.TestFieldHiding.executor": "Run",
+    "Application.TestMethodHiding.executor": "Run",
+    "Application.UpcastingDemo.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "application.passwordSafe"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.srstech.marvel.heros" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ConstructorDemo">
+    <configuration name="ConstructorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.marvel.app.ConstructorDemo" />
+      <module name="section10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.marvel.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicPoly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.marvel.app.DynamicPoly" />
+      <module name="section10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.marvel.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticPoly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.marvel.app.StaticPoly" />
+      <module name="section10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.marvel.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFieldHiding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.marvel.app.TestFieldHiding" />
+      <module name="section10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.marvel.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMethodHiding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.marvel.app.TestMethodHiding" />
+      <module name="section10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.marvel.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConstructorDemo" />
+        <item itemvalue="Application.TestFieldHiding" />
+        <item itemvalue="Application.TestMethodHiding" />
+        <item itemvalue="Application.StaticPoly" />
+        <item itemvalue="Application.DynamicPoly" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3bda7fd-4e4a-40b3-b367-3f2cd74bfbaf" name="Changes" comment="" />
+      <created>1790472724525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790472724525</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
