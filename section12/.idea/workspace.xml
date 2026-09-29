@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffc53995-16c9-4d3d-8376-a13aaaa16409" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/main/AddMatricesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/main/ArrayCopyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/main/ArrayForEachLoopDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/main/ArrayForLoopDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/main/ArrayLengthDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/main/ArraysBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/main/FillDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/main/JaggedArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/main/SearchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/main/SortDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/main/ThreeDArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/main/ToStringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/main/TwoDArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/model/Person.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3JxHYkG6MdCt6I6KDQYNhcdSamn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AddMatricesDemo.executor": "Run",
+    "Application.ArrayCopyDemo.executor": "Run",
+    "Application.ArrayForEachLoopDemo.executor": "Run",
+    "Application.ArrayForLoopDemo.executor": "Run",
+    "Application.ArrayLengthDemo.executor": "Run",
+    "Application.ArraysBasics.executor": "Run",
+    "Application.FillDemo.executor": "Run",
+    "Application.JaggedArrayDemo.executor": "Run",
+    "Application.SearchDemo.executor": "Run",
+    "Application.SortDemo.executor": "Run",
+    "Application.ThreeDArrayDemo.executor": "Run",
+    "Application.ToStringDemo.executor": "Run",
+    "Application.TwoDArrayDemo.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "application.passwordSafe"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ThreeDArrayDemo">
+    <configuration name="AddMatricesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.main.AddMatricesDemo" />
+      <module name="section12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FillDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.main.FillDemo" />
+      <module name="section12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JaggedArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.main.JaggedArrayDemo" />
+      <module name="section12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeDArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.main.ThreeDArrayDemo" />
+      <module name="section12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoDArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.main.TwoDArrayDemo" />
+      <module name="section12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreeDArrayDemo" />
+        <item itemvalue="Application.JaggedArrayDemo" />
+        <item itemvalue="Application.AddMatricesDemo" />
+        <item itemvalue="Application.TwoDArrayDemo" />
+        <item itemvalue="Application.FillDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffc53995-16c9-4d3d-8376-a13aaaa16409" name="Changes" comment="" />
+      <created>1790595848449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790595848449</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/srstech/main/ArraysBasics.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/srstech/main/ArraysBasics.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
