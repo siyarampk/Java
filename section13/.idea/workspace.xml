@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a35deea-f6b0-4e03-8dac-1c8eafb009fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/input/BufferReaderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/input/BufferReaderEvenOddDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/input/BufferReaderSumDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/input/FileReaderWithBFR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/input/FileReaderWithScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/input/JavaBasicInputDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/input/PrimeNumberChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/input/PrimeNumberCheckerScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/input/ScannerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/log/LoggingDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3JzXJ7RTSOVdi380HTDGjuouSd2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Addition.executor": "Run",
+    "Application.BufferReaderDemo.executor": "Run",
+    "Application.BufferReaderEvenOddDemo.executor": "Run",
+    "Application.BufferReaderSumDemo.executor": "Run",
+    "Application.FileReaderWithBFR.executor": "Run",
+    "Application.FileReaderWithScanner.executor": "Run",
+    "Application.JavaBasicInputDemo.executor": "Run",
+    "Application.LoggingDemo.executor": "Run",
+    "Application.PrimeNumberChecker.executor": "Run",
+    "Application.PrimeNumberCheckerScanner.executor": "Run",
+    "Application.ScannerDemo.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "application.passwordSafe"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.srstech.input" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LoggingDemo">
+    <configuration name="FileReaderWithBFR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.input.FileReaderWithBFR" />
+      <module name="section13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.input.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileReaderWithScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.input.FileReaderWithScanner" />
+      <module name="section13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.input.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoggingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.log.LoggingDemo" />
+      <module name="section13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.log.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumberCheckerScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.input.PrimeNumberCheckerScanner" />
+      <module name="section13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.input.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.input.ScannerDemo" />
+      <module name="section13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.input.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoggingDemo" />
+        <item itemvalue="Application.FileReaderWithScanner" />
+        <item itemvalue="Application.PrimeNumberCheckerScanner" />
+        <item itemvalue="Application.ScannerDemo" />
+        <item itemvalue="Application.FileReaderWithBFR" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a35deea-f6b0-4e03-8dac-1c8eafb009fd" name="Changes" comment="" />
+      <created>1790664798062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790664798062</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
