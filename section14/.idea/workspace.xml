@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d75f6779-c787-4768-a96b-491bf688d145" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/exception/AcceptAgeDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/exception/ArrayIndexOutOfBoundsExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/exception/CheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/exception/DivideByZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/exception/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/exception/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/exception/ExceptionPropogationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/exception/MultipleCatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/exception/NestedTryDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/exception/ThrowDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/exception/ThrowsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/exception/TryWithResourceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/exception/UnCheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/exception/custom/DivideByZeroException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/exception/custom/InvalidAgeException.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JzvDXSP3O3WH8j55owZLdTUhNv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AcceptAgeDetails.executor": "Run",
+    "Application.ArrayIndexOutBoundsExceptionDemo.executor": "Run",
+    "Application.ArrayIndexOutOfBoundsExceptionDemo.executor": "Run",
+    "Application.DivideByZero.executor": "Run",
+    "Application.ExceptionDemo.executor": "Run",
+    "Application.ExceptionPropogationDemo.executor": "Run",
+    "Application.MultipleCatchDemo.executor": "Run",
+    "Application.NestedTryDemo.executor": "Debug",
+    "Application.ThrowDemo.executor": "Run",
+    "Application.ThrowsDemo.executor": "Run",
+    "Application.TryWithResourceDemo.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.JSON"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.AcceptAgeDetails">
+    <configuration name="AcceptAgeDetails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.exception.AcceptAgeDetails" />
+      <module name="section14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DivideByZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.exception.DivideByZero" />
+      <module name="section14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionPropogationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.exception.ExceptionPropogationDemo" />
+      <module name="section14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NestedTryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.exception.NestedTryDemo" />
+      <module name="section14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThrowDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.exception.ThrowDemo" />
+      <module name="section14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AcceptAgeDetails" />
+        <item itemvalue="Application.DivideByZero" />
+        <item itemvalue="Application.NestedTryDemo" />
+        <item itemvalue="Application.ExceptionPropogationDemo" />
+        <item itemvalue="Application.ThrowDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d75f6779-c787-4768-a96b-491bf688d145" name="Changes" comment="" />
+      <created>1790676592163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790676592163</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
