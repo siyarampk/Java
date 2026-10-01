@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f80a8dd-16e7-44a6-872f-8354077e118c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/object/demo/CloneDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/object/demo/CloneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/object/demo/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/object/demo/FinalizeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/object/demo/GetClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/object/demo/HashCodeEqualsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/object/demo/Immutabledemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/object/demo/ImmuteablePerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/object/demo/Mutabledemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/object/demo/MuteablePerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/object/demo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/object/demo/PersonRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/object/demo/RecordDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/object/demo/ShalloCloneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/object/demo/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/object/demo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/object/demo/VarDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3K353oUmAc0KN6iojICxH4KbzAO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CloneDemo.executor": "Run",
+    "Application.CloneExample.executor": "Run",
+    "Application.FinalizeDemo.executor": "Run",
+    "Application.GetClassDemo.executor": "Run",
+    "Application.HashCodeEqualsDemo.executor": "Run",
+    "Application.Immutabledemo.executor": "Run",
+    "Application.Mutabledemo.executor": "Run",
+    "Application.RecordDemo.executor": "Run",
+    "Application.ShalloCloneExample.executor": "Run",
+    "Application.StringDemo.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "copyright"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.srstech.object.demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RecordDemo">
+    <configuration name="CloneExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.object.demo.CloneExample" />
+      <module name="section15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.object.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Immutabledemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.object.demo.Immutabledemo" />
+      <module name="section15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.object.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mutabledemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.object.demo.Mutabledemo" />
+      <module name="section15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.object.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecordDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.object.demo.RecordDemo" />
+      <module name="section15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.object.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShalloCloneExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.object.demo.ShalloCloneExample" />
+      <module name="section15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.object.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RecordDemo" />
+        <item itemvalue="Application.Immutabledemo" />
+        <item itemvalue="Application.Mutabledemo" />
+        <item itemvalue="Application.CloneExample" />
+        <item itemvalue="Application.ShalloCloneExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f80a8dd-16e7-44a6-872f-8354077e118c" name="Changes" comment="" />
+      <created>1790773214930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790773214930</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
