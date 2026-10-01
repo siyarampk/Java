@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe0c802d-595b-45da-81bd-ab6c1f24710e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/demo/AutoBoxingUnBoxingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/demo/BoxingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/demo/UnBoxingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/demo/WrapperObjectsCaching.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3K5Hxvq4liaEYC4CSg7z9TrvoCW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AutoBoxingUnBoxingDemo.executor": "Run",
+    "Application.BoxingDemo.executor": "Run",
+    "Application.TestDemo.executor": "Run",
+    "Application.UnBoxingDemo.executor": "Run",
+    "Application.WraooerObjectsCaching.executor": "Run",
+    "Application.WrapperObjectsCaching.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "application.passwordSafe"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.srstech.demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WrapperObjectsCaching">
+    <configuration name="AutoBoxingUnBoxingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.demo.AutoBoxingUnBoxingDemo" />
+      <module name="section16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoxingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.demo.BoxingDemo" />
+      <module name="section16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnBoxingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.demo.UnBoxingDemo" />
+      <module name="section16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WraooerObjectsCaching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.demo.WraooerObjectsCaching" />
+      <module name="section16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WrapperObjectsCaching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.demo.WrapperObjectsCaching" />
+      <module name="section16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WrapperObjectsCaching" />
+        <item itemvalue="Application.WraooerObjectsCaching" />
+        <item itemvalue="Application.AutoBoxingUnBoxingDemo" />
+        <item itemvalue="Application.UnBoxingDemo" />
+        <item itemvalue="Application.BoxingDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe0c802d-595b-45da-81bd-ab6c1f24710e" name="Changes" comment="" />
+      <created>1790840759283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790840759283</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/srstech/demo/BoxingDemo.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
