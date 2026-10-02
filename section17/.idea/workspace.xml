@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="edef7b3c-4b0d-4f22-9c66-bab79ef04050" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/list/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/list/ArrayListForEachExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/list/ArrayListItratorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/list/ArrayListListItratorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/list/ArrayVsArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/list/DiamondOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/list/ImmutableListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/list/LastCharComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/list/SortingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/list/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/list/StudentComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/list/StudentSortingDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3K5d0WKQ6ZDQwQLWvW9zl6rPFv8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayListDemo.executor": "Run",
+    "Application.ArrayListForEachExample.executor": "Run",
+    "Application.ArrayListItratorExample.executor": "Run",
+    "Application.ArrayListListItratorExample.executor": "Run",
+    "Application.ArrayVsArrayList.executor": "Run",
+    "Application.DiamondOperator.executor": "Run",
+    "Application.ImmutableListDemo.executor": "Run",
+    "Application.SortingDemo.executor": "Run",
+    "Application.StudentSortingDemo.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "application.passwordSafe"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.srstech.list" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ArrayVsArrayList">
+    <configuration name="ArrayListItratorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.list.ArrayListItratorExample" />
+      <module name="section17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListListItratorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.list.ArrayListListItratorExample" />
+      <module name="section17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayVsArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.list.ArrayVsArrayList" />
+      <module name="section17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.list.SortingDemo" />
+      <module name="section17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentSortingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.list.StudentSortingDemo" />
+      <module name="section17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayVsArrayList" />
+        <item itemvalue="Application.StudentSortingDemo" />
+        <item itemvalue="Application.SortingDemo" />
+        <item itemvalue="Application.ArrayListListItratorExample" />
+        <item itemvalue="Application.ArrayListItratorExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edef7b3c-4b0d-4f22-9c66-bab79ef04050" name="Changes" comment="" />
+      <created>1790851139708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790851139708</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/srstech/list/ArrayListDemo.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
