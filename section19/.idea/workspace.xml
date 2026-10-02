@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbcc198c-af70-41f8-8f0d-bf8af6e1bf06" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/generics/CovarianceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/generics/GenericCodeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/generics/GenericMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/generics/GenericPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/generics/LowerBoundWildCardDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/generics/NonGenericCodeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/generics/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/generics/UnBoundedWildCardDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/generics/UpperBoundWildCardDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/generics/WithOutGenericsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/generics/model/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/generics/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/generics/model/Manager.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3K8JP5Q81KoaKo1DQpCo2HaTIPm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CovarianceDemo.executor": "Run",
+    "Application.GenericCodeDemo.executor": "Run",
+    "Application.GenericMethodDemo.executor": "Run",
+    "Application.LowerBoundWildCardDemo.executor": "Run",
+    "Application.NonGenericCodeDemo.executor": "Run",
+    "Application.UnBoundedWildCardDemo.executor": "Run",
+    "Application.UpperBoundWildCardDemo.executor": "Run",
+    "Application.WithOutGenericsDemo.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "application.passwordSafe"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.srstech.generics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.UnBoundedWildCardDemo">
+    <configuration name="CovarianceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.generics.CovarianceDemo" />
+      <module name="section19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LowerBoundWildCardDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.generics.LowerBoundWildCardDemo" />
+      <module name="section19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnBoundedWildCardDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.generics.UnBoundedWildCardDemo" />
+      <module name="section19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpperBoundWildCardDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.generics.UpperBoundWildCardDemo" />
+      <module name="section19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WithOutGenericsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.generics.WithOutGenericsDemo" />
+      <module name="section19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UnBoundedWildCardDemo" />
+        <item itemvalue="Application.LowerBoundWildCardDemo" />
+        <item itemvalue="Application.UpperBoundWildCardDemo" />
+        <item itemvalue="Application.CovarianceDemo" />
+        <item itemvalue="Application.WithOutGenericsDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbcc198c-af70-41f8-8f0d-bf8af6e1bf06" name="Changes" comment="" />
+      <created>1790933234929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790933234929</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
