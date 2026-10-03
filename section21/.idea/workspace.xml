@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7613ae89-5ea1-4d9c-b19a-54b3231227ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/set/HashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/set/HashSetIterationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/set/ImmutableSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/set/LinkedHashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/set/SetOperationsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/srstech/set/TreeSetDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3KBF4iY0mujg4n1Q1IexwtI1MFW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HashSetDemo.executor": "Run",
+    "Application.HashSetIterationDemo.executor": "Run",
+    "Application.ImmutableSetDemo.executor": "Run",
+    "Application.LinkedHashSetDemo.executor": "Run",
+    "Application.SetOperationsDemo.executor": "Run",
+    "Application.TreeSetDemo.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "application.passwordSafe"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ImmutableSetDemo">
+    <configuration name="HashSetIterationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.set.HashSetIterationDemo" />
+      <module name="section21" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImmutableSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.set.ImmutableSetDemo" />
+      <module name="section21" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedHashSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.set.LinkedHashSetDemo" />
+      <module name="section21" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetOperationsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.set.SetOperationsDemo" />
+      <module name="section21" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.srstech.set.TreeSetDemo" />
+      <module name="section21" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.srstech.set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ImmutableSetDemo" />
+        <item itemvalue="Application.LinkedHashSetDemo" />
+        <item itemvalue="Application.TreeSetDemo" />
+        <item itemvalue="Application.SetOperationsDemo" />
+        <item itemvalue="Application.HashSetIterationDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7613ae89-5ea1-4d9c-b19a-54b3231227ee" name="Changes" comment="" />
+      <created>1791022864975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791022864975</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
